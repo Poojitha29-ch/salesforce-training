@@ -42,3 +42,8 @@ Opportunity → Deal
    Flow: Company (Account) → Person (Contact) → Deal (Opportunity)
 Here are typical visuals you’ll see in Salesforce Trailhead:
 🔹 Salesforce Dashboard
+ 5. Screenshots from Trailhead
+     <img width="1845" height="911" alt="Screenshot from 2026-05-16 11-50-00" src="https://github.com/user-attachments/assets/0e7de20a-f4ea-4d27-9a2c-a78ecdfbedef" />
+<img width="1845" height="911" alt="Screenshot from 2026-05-16 11-39-06" src="https://github.com/user-attachments/assets/c2b4fb2a-08c1-4dc2-9cdc-5a842925267c" />
+<img width="1845" height="911" alt="Screenshot from 2026-05-16 11-06-19" src="https://github.com/user-attachments/assets/98dd7bdc-b7d9-431b-8779-1a6ecab5558b" />
+<img width="1841" height="884" alt="Screenshot from 2026-05-16 11-03-49" src="https://github.com/user-attachments/assets/80e2554c-47ce-462b-9d69-a0ccf2b82d61" />
